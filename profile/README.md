@@ -1,6 +1,6 @@
 <!--
   This file is the GitHub ORG PROFILE readme. It renders at https://github.com/GetBusbar
-  only when it lives in the private repo GetBusbar/.github at the path profile/README.md.
+  only when it lives in the public repo GetBusbar/.github at the path profile/README.md.
 
   To publish: copy this file to profile/README.md in GetBusbar/.github, and copy the
   org-profile/assets/ directory next to it as profile/assets/. The image paths below are
@@ -45,7 +45,7 @@ That request left as OpenAI, may have been served by Anthropic, and came back as
   <img src="assets/field-light.svg" alt="Wire protocol pairs served, idle resident memory and container image size, comparing Busbar with LiteLLM, Kong and Portkey.">
 </picture>
 
-Same box, same harness, same day, published cell by cell with its own verdict and reason at [onthebench.ai](https://onthebench.ai). Busbar served all 36 ingress and upstream wire-protocol pairs where LiteLLM served 8, Portkey 8 and Kong 4, at 7.3 MiB idle and 5.74 MB of compressed image against 360.77 MB for LiteLLM's.
+Same box, same harness, same day, published cell by cell with its own verdict and reason at [onthebench.ai](https://onthebench.ai). Busbar served all 36 ingress and upstream wire-protocol pairs where LiteLLM served 8, Portkey 8 and Kong 4, at 7.3 MiB idle and 5.74 MiB of compressed image against 360.77 MiB for LiteLLM's.
 
 The full table, with what each row does and does not say, is in the [Busbar README](https://github.com/GetBusbar/busbar#why-not-litellm-kong-or-portkey).
 
